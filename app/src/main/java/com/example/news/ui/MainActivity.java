@@ -1,8 +1,10 @@
-package com.example.news;
+package com.example.news.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.news.R;
 
 public class MainActivity extends AppCompatActivity {
 
